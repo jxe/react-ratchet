@@ -8,7 +8,7 @@ class ControlItem extends React.Component {
 		classes = classes.concat(this.props.className);
 
 		return (
-			<a className={cx.apply(null, classes)}>{this.props.children}</a>	
+			<a {...this.props} className={cx.apply(null, classes)}>{this.props.children}</a>
 		);
 	}
 }
