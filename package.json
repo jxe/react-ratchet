@@ -31,7 +31,7 @@
   "bugs": "https://github.com/jsdf/react-ratchet/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jsdf/react-ratchet.git"
+    "url": "git://github.com/jxe/react-ratchet.git"
   },
   "dependencies": {
     "react": "^0.14.5",
